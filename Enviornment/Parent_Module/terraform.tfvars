@@ -4,14 +4,10 @@ resource = {
     location = "centralindia"
   }
   rg2={
-    name="rg-22"
+    name="rg-Avinash"
     location="centralindia"
   }
-  rg3={
-    name="rg-24"
-    location="centralindia"
-  }
-  
+ 
 }
 
 vnet = {
